@@ -62,34 +62,34 @@ To drive the core statements, I developed the following granular schedules:
 
 <img width="1047" height="926" alt="Screenshot 2026-01-07 010757" src="https://github.com/user-attachments/assets/3ad2c67b-4c06-4df2-94fc-29515bb906bd" />
 
+---
 
+## Technical Methodology & Business Logic
+
+* **Bottom-Up Driver Architecture:** Engineered a granular revenue schedule linking physical constraints specifically **Table Turnover, Seat Count, and Average Ticket Size** to financial outcomes. This eliminates "top-down" bias and ensures projections are grounded in operational reality.
+* **Dynamic 3-Statement Integration:** Built a fully circular model using the **Indirect Method** to link the Income Statement to the Cash Flow Statement. The Balance Sheet reconciles via **Active Liquidity Tracking** of the initial **KSh 22.5M seed injection**, ensuring the model remains audit-ready.
+* **Capacity Stress Testing:** Applied **Variable Utilization Factors** (70% peak-load capacity) to revenue drivers. This ensures the model is defensible under non-optimal market conditions and accounts for realistic restaurant traffic fluctuations.
+* **Modular Supporting Schedules:** Developed independent modules for **CAPEX & Depreciation**, **Working Capital**, and **Debt/Equity Schedules**, maintaining model integrity and allowing for rapid scenario adjustments.
 
 ---
 
-### Key Business Insights
-**1. Model Accuracy & Funding Clarity**
-* **Reliable Projections:** The model provides a clear visibility into capital requirements and the profitability timeline.
-* **Capital Requirements:** From the model, I determined that a seed funding injection of **KSh 22.5M** is required to successfully kick-start operations and cover initial capital outlays.
-* **Profitability Trajectory:** From the model forecasting, there is a strong transition from a startup loss to significant profitability:
-    * **2021:** KSh (2,252,099.8) - *Initial Setup & Market Entry*
-    * **2022:** KSh 579,672.0 - *Breakeven Point*
-    * **2023:** KSh 6,574,847.2 - *Stable Growth Phase*
+## Key Business Insights & "Capital Story"
 
-**2. Investment Readiness & Strategic Growth**
-* **Scaling Asset Base:** The model demonstrates a consistent capital appreciation, with **Total Assets** growing from **KSh 22.28M** in Year 1 to **KSh 31.16M** by Year 3-a **40% increase** in business book value.
-* **Liquidity & Cash Flow Optimization:** The model as well demostrates a robust liquidity position throughout the startup phase, ending Year 3 with a **Closing Cash Balance of KSh 15.79M** to support future expansion or debt servicing.
-* **Operational Viability:** It further prooves the concept's scalability through a **756% growth in Net Operating Cash Flow** (KSh 1.06M to KSh 9.09M), signaling a successful transition from a capital-intensive startup to a high-yield operating entity.
-
-**3. Operational Translation**
-* **Dynamic Forecasting:** The model successfully translates complex restaurant operations, including **seasonality** and **staffing requirements**, into concrete financial outcomes.
-* **Granular Reporting:** There is an engineered detailed monthly revenue forecasts and P&L statements to enable precise operational monitoring and tactical adjustments.
+* **Funding & Liquidity Runway:** Determined that a mandatory capital injection of **KSh 22.5M** is required to bridge the Year 1 startup burn. The model identifies the **Operational Breakeven at Month 14**, providing a specific milestone for management to achieve cash-flow neutrality.
+* **Profitability Trajectory & ROIC:** Forecasted a robust transition from a startup loss of **KSh (2.25M)** in Year 1 to a stable, high-yield operating profit of **KSh 6.57M** by Year 3. This trajectory validates the concept's ability to generate a competitive **Return on Invested Capital (ROIC)**.
+* **Asset Efficiency & Turnover:** Demonstrated a **40% increase in Book Value** (KSh 22.28M to KSh 31.16M). The model shows a strengthening **Asset Turnover Ratio**, proving that the business becomes more efficient at generating revenue from its capital base as it scales.
+* **Cash Flow Velocity:** Identified a **756% expansion in Net Operating Cash Flow**. This metric signals to investors that the concept has successfully moved from a capital-intensive "risk phase" to a self-sustaining enterprise.
 
 ---
 
-### Strategic Recommendations
-* **Expansion Strategy:** Utilize the Year 3 **Closing Cash Balance (KSh 15.79M)** for strategic reinvestment in facility upgrades or a second location to maintain the **40% asset appreciation** trend.
-* **Financial Optimization:** Leverage proven operational viability (756% Operating Cash Flow growth) to pursue lower-cost debt financing, optimizing the capital structure for future scaling.
-* **Risk Mitigation:** Implement seasonal "Cash Buffers" based on monthly P&L trends to protect the initial **KSh 22.5M seed investment** against market volatility.
+## Strategic Advisory Recommendations (Executive Brief)
+
+* **Expansion Financing Strategy:** Rather than depleting the projected Year 3 **Closing Cash Balance (KSh 15.79M)**, utilize it as collateral for **Debt-Side Financing**. This preserves equity for the founders while leveraging proven cash flow to fund a second location.
+* **Yield Management Optimization:** Implement "Peak-Hour Incentives" to maximize identified **Table Turnover drivers**. Targeting a 5% uplift in the **Average Order Value (AOV)** would accelerate the Month 14 breakeven milestone by approximately 60 days.
+* **Inflationary & Supply Chain Hedging:** Establish a **15% "Margin of Safety"** on COGS (Food & Beverage costs) within the model. This ensures that global supply chain volatility does not jeopardize the projected **KSh 6.57M net profit**.
+* **Capital Structure Calibration:** Transition from "Seed Equity" to a balanced capital structure by Year 3. The proven 756% operating cash flow growth provides the **Debt Service Coverage Ratio (DSCR)** necessary to attract lower-cost bank financing for long-term scaling.
+
+---
 
 ## 📂 Access the Model
 You can view the full interactive model by downloading the file below:
