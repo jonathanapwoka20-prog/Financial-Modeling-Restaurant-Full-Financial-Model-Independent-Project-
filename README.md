@@ -93,4 +93,4 @@ To drive the core statements, I developed the following granular schedules:
 
 ## 📂 Access the Model
 You can view the full interactive model by downloading the file below:
-[🔗 View & Download full Financial Modelling & Forecasting Model (Excel)](https://docs.google.com/spreadsheets/d/1sin2QIjSb7vZUb3zVpHgcWGruC48rFbD/edit?usp=drive_link&ouid=103170821742347333212&rtpof=true&sd=true)
+🔗 [View & Download full Financial Modelling & Forecasting Model (Excel)](https://docs.google.com/spreadsheets/d/1sin2QIjSb7vZUb3zVpHgcWGruC48rFbD/edit?usp=drive_link&ouid=103170821742347333212&rtpof=true&sd=true)
