@@ -46,16 +46,20 @@ To drive the core statements, I developed the following granular schedules:
 
 ### 1. Assumptions & Input Drivers
 *This is the "Brain" of the model where all operational variables are controlled.*
+
 <img width="1681" height="926" alt="Screenshot 2026-01-07 005936" src="https://github.com/user-attachments/assets/d6105abb-f3ab-4a2f-8949-0d7e3bb5b2d5" />
 
 ### 2. Integrated Financial Statements
 *Monthly P&L, Balance Sheet, and Cash Flow Statement showing perfect integration.*
 <img width="1920" height="931" alt="Screenshot 2026-01-07 010256" src="https://github.com/user-attachments/assets/abdf122f-547f-4888-b324-9010e9115cfd" />
+
 <img width="1154" height="930" alt="Screenshot 2026-01-07 010402" src="https://github.com/user-attachments/assets/08cef769-52b2-4541-be18-31f7d8d2dbea" />
+
 <img width="1191" height="926" alt="Screenshot 2026-01-07 010413" src="https://github.com/user-attachments/assets/5a15115e-23b9-485d-9c59-662abd61e2f2" />
 
 ### 3. Annual Summary & Valuation (Annual P&L)
 *High-level summary for executive presentation and seed-round due diligence.*
+
 <img width="1047" height="926" alt="Screenshot 2026-01-07 010757" src="https://github.com/user-attachments/assets/3ad2c67b-4c06-4df2-94fc-29515bb906bd" />
 
 
@@ -63,9 +67,12 @@ To drive the core statements, I developed the following granular schedules:
 ---
 
 ## Key Results and Learnings
-* **Model Accuracy:** Generated reliable projections providing clear visibility into capital requirements and the profitability timeline.
-* **Investment Readiness:** Provided a robust platform for valuation, demonstrating the financial viability of the concept to potential investors.
-* **Operational Translation:** Successfully translated complex restaurant operations (like seasonality and staffing) into concrete financial outcomes.
+* **Model Accuracy:** Generated reliable projections providing clear visibility into capital requirements and the profitability timeline, showcasing that under the current business assumptions the initial seed capital funding to kick-start the project is Ksh 22.5M. The projected yearly profit is as follows; 2021 - Ksh (2,252,099.8), 2022 - Ksh 579,672.0 and 2023 - Ksh 6,574,847.2.
+* **Investment Readiness:** Provided a robust platform for valuation, demonstrating the financial viability of the concept to potential investors;
+   - **Scaling Asset Base:** Orchestrated a model demonstrating consistent capital appreciation, with Total Assets growing from KSh 22.28M in Year 1 to KSh 31.16M by Year 3-a 40% increase in business valuation.
+   - **Liquidity & Cash Flow Optimization:** Maintained a robust liquidity position throughout the startup phase, ending Year 3 with a Closing Cash Balance of KSh 15.79M to support future expansion or debt servicing.
+   - **Operational Viability:** Proved the concept's scalability through a 756% growth in Net Operating Cash Flow (KSh 1.06M to KSh 9.09M), signaling a strong transition from a capital-intensive startup to a high yield operating entity.
+* **Operational Translation:** Successfully translated complex restaurant operations (like seasonality and staffing) into concrete financial outcomes by forecasting monthly revenues and monthly P&L
 
 ---
 
