@@ -68,21 +68,21 @@ To drive the core statements, I developed the following granular schedules:
 
 ### Key Business Insights
 **1. Model Accuracy & Funding Clarity**
-* **Reliable Projections:** Developed a high-integrity model providing clear visibility into capital requirements and the profitability timeline.
-* **Capital Requirements:** Determined that a seed funding injection of **KSh 22.5M** is required to successfully kick-start operations and cover initial capital outlays.
-* **Profitability Trajectory:** Forecasted a strong transition from a startup loss to significant profitability:
+* **Reliable Projections:** The model provides a clear visibility into capital requirements and the profitability timeline.
+* **Capital Requirements:** From the model, I determined that a seed funding injection of **KSh 22.5M** is required to successfully kick-start operations and cover initial capital outlays.
+* **Profitability Trajectory:** From the model forecasting, there is a strong transition from a startup loss to significant profitability:
     * **2021:** KSh (2,252,099.8) - *Initial Setup & Market Entry*
     * **2022:** KSh 579,672.0 - *Breakeven Point*
     * **2023:** KSh 6,574,847.2 - *Stable Growth Phase*
 
 **2. Investment Readiness & Strategic Growth**
-* **Scaling Asset Base:** Orchestrated a model demonstrating consistent capital appreciation, with **Total Assets** growing from **KSh 22.28M** in Year 1 to **KSh 31.16M** by Year 3-a **40% increase** in business book value.
-* **Liquidity & Cash Flow Optimization:** Maintained a robust liquidity position throughout the startup phase, ending Year 3 with a **Closing Cash Balance of KSh 15.79M** to support future expansion or debt servicing.
-* **Operational Viability:** Proved the concept's scalability through a **756% growth in Net Operating Cash Flow** (KSh 1.06M to KSh 9.09M), signaling a successful transition from a capital-intensive startup to a high-yield operating entity.
+* **Scaling Asset Base:** The model demonstrates a consistent capital appreciation, with **Total Assets** growing from **KSh 22.28M** in Year 1 to **KSh 31.16M** by Year 3-a **40% increase** in business book value.
+* **Liquidity & Cash Flow Optimization:** The model as well demostrates a robust liquidity position throughout the startup phase, ending Year 3 with a **Closing Cash Balance of KSh 15.79M** to support future expansion or debt servicing.
+* **Operational Viability:** It further prooves the concept's scalability through a **756% growth in Net Operating Cash Flow** (KSh 1.06M to KSh 9.09M), signaling a successful transition from a capital-intensive startup to a high-yield operating entity.
 
 **3. Operational Translation**
-* **Dynamic Forecasting:** Successfully translated complex restaurant operations, including **seasonality** and **staffing requirements**, into concrete financial outcomes.
-* **Granular Reporting:** Engineered detailed monthly revenue forecasts and P&L statements to enable precise operational monitoring and tactical adjustments.
+* **Dynamic Forecasting:** The model successfully translates complex restaurant operations, including **seasonality** and **staffing requirements**, into concrete financial outcomes.
+* **Granular Reporting:** There is an engineered detailed monthly revenue forecasts and P&L statements to enable precise operational monitoring and tactical adjustments.
 
 ---
 
